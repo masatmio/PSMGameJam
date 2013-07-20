@@ -20,6 +20,7 @@ namespace PSMGame
 				SystemEvents.CheckEvents ();
 				Update ();
 				Render ();
+				//変更しました。
 			}
 		}
 
